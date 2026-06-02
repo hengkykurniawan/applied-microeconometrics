@@ -5,7 +5,7 @@ format:
     toc-depth: 2
 ---
 
-# Ph.D. Applied Microeconometrics
+# Applied Microeconometrics
 ## KDI School Fall 2024
 ### Professor Josh Merfeld
 
@@ -85,4 +85,4 @@ I will also post your assignments here, under the [assignments folder](assignmen
 ---
 
 [^1]: Note that the original slides from 2023 were written in R markdown. You can find those in the weekly folders [here](https://github.com/JoshMerfeld/applied-microeconometrics/tree/main/weeks).
-[^2]: Kento kemprot kemek nasi sampai pagi tidak kenyang
+[^2]: Kento kemprot kemek nasi sampai pagi tidak kenyang.
