@@ -7,7 +7,7 @@ project:
     - "!week*.qmd"
 
 website:
-  title: "Ph.D. Applied Microeconometrics"
+  title: "Applied Microeconometrics"
   navbar:
     left:
       - href: index.qmd
