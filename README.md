@@ -1,4 +1,4 @@
-# Ph.D. Applied Microeconometrics<br />KDI School Fall 2024<br />Professor Josh Merfeld
+# Applied Microeconometrics<br />KDI School Fall 2024<br />Professor Josh Merfeld
 
 ## Course websites
 1. [https://github.com/JoshMerfeld/applied-microeconometrics](https://github.com/JoshMerfeld/applied-microeconometrics)
