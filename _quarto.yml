@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: _site
+  execute-dir: project
+  render:
+    - index.qmd
+    - "!week*.qmd"
 
 website:
   title: "Ph.D. Applied Microeconometrics"
@@ -10,15 +14,9 @@ website:
         text: Home
       - href: assignments
         text: Assignments
-  sidebar:
-    - id: sidebar
-      collapse-level: 2
-      contents:
-        - index.qmd
 
 format:
   html:
     theme: cosmo
     toc: true
     toc-depth: 2
-    css: styles.css
