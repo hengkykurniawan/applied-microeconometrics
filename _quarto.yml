@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Ph.D. Applied Microeconometrics"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: assignments
+        text: Assignments
+  sidebar:
+    - id: sidebar
+      collapse-level: 2
+      contents:
+        - index.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    css: styles.css
