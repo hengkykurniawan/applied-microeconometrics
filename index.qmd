@@ -72,7 +72,7 @@ You can find the slides (and any data we will be using) for each week under thei
 - **Week 9**: You can find the slides for the week here: [Day 9 slides](https://joshmerfeld.github.io/applied-microeconometrics/week9.html).
   - You can find the data for the class in the [week 9 folder](week9files).
 
-### Additional resources
+### Additional resources[^2]
 
 I put together a short write-up of some common data wrangling tasks in R. You can find it [here](https://joshmerfeld.github.io/rintro/datawrangling.html).
 
@@ -85,3 +85,4 @@ I will also post your assignments here, under the [assignments folder](assignmen
 ---
 
 [^1]: Note that the original slides from 2023 were written in R markdown. You can find those in the weekly folders [here](https://github.com/JoshMerfeld/applied-microeconometrics/tree/main/weeks).
+[^2]: Kento kemprot kemek nasi sampai pagi tidak kenyang
